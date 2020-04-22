@@ -1,0 +1,60 @@
+Short Story of Transistor’s life
+
+Photo credit: 
+
+ from 
+
+Charlie was a small epitaxial transistor. He preferred his name much more than the BC547 symbol, he was known to all electronics technicians. Charlie stood proudly on a printed circuit board with his three metal legs. They were soldered to copper tracks. Unable to make a move, Charlie’s only entertainment was voltage and circuit control.
+
+His body was closed in a black plastic case with BC547 label. Yet, it was his inner self which was the most important.
+
+“I’m just a tiny junction of three silicon semiconductors inside that case. Isn’t it cute?” he chuckled to himself. “Two N semiconductors are separated with a P semiconductor. These three are connected to my legs called electrodes: Emitter, Base, and Collector. That’s really cool! In the world of people, women are often proud of their breasts. Well, the electrodes are the source of my pride. And I’ve got three!”
+
+He looked around. His middle leg, the Base electrode was pararelly connected with two resistors: a 10 kiloohm one and a 5 kiloohm.
+
+“Good to have you in the neighborhood, guys!” he shouted to the resistors, his friends.”I know how much I owe you! You limit the current coming to my Base. It’s such a sensitive electrode. Without you, it would be fried!”
+
+Both resistors smiled back.
+
+Charlie looked at his other electrodes. The Emitter was connected to a smaller, 470 ohm resistor, whose other leg was grounded. The Collector had a node, so it was simultaneously connected to 15 volts power supply with a 1 kiloohm resistor and to the input of integrated Power Amplifier.
+
+He looked towards the big guy. The PA TDA2030 looked unfriendly. A monster with his five legs and a Pantawatt case leaned against a huge aluminium heatsink.
+
+“You can’t match me, little one!” roared TDA2030 chip. “I can make a 14-watt output signal you would never be able to make. I can accept nearly a 2 Amper current!”
+
+Charlie was sorry. He knew his maximal current was 300 miliampers, over six time less.
+
+“I play the crucial role in the circuit of the pre-amplifier. You wouldn’t be able to amplify a signal from a microphone without me.” Charlie shouted back.
+
+“Pussy! Try to connect your output signal to a speaker. Uh!? Anyone would hardly hear it. I am the boss here!”
+
+Charlie felt even more sorry. He said nothing to PA’s insults.
+
+Fortunately, everyone on his yard liked him, including Mike, the microphone. Every time some human user was speaking to Mike, Charlie initially amplified the signal and passed it to the hostile PA.
+
+“I can’t understand why he doesn’t like me. After all, we all are Chinese and even we come from the same factory.”
+
+Months passed and Charlie was happy amplifying small signals received from Mike. However, one day something unexpected happened. A ten year old boy opened the housing of the amplifier. The first thing he noticed was obviously the big PA with its heatsink.
+
+“Oh dear!” shouted Charlie. “The boy is unscrewing the heatsink from the PA!”
+
+Everyone else was also looking at the PA. He was very nervous, but couldn’t do anything about what has just happened.
+
+Suddenly the boy’s father shouted at his son, and the small guy stopped unscrewing. Few minutes later, dad put the housing on the amplifier.
+
+“Oh no!” shouted Charlie again. “He didn’t realized that PA doesn’t stick to the heatsink now!”
+
+The PA knew his time was short.
+
+“I need to check if the boy didn’t brake the equipment!” the voice of boy’s father sounded inside the housing. Every chip and element inside the housing knew it meant capital punishment for the PA.
+
+The father turned the music on and increased the volume
+
+The show was horrifying. Just after 10 seconds the PA started to melt. His plastic case was half-liquid and a terrible smoke filled the housing. Outside, father realized that something was wrong. Yet, it was too late. The PA was dead, executed in electrocution.
+
+Unfortunately, PA’s doom meant nothing good for all the rest. Father threw out the amplifier to the dump. Only Mike, as a peripheral, stayed in the house. The doom came to everyone within the housing.
+
+Poor Charlie slowly witness his electronic death. Though he was a fully working electronic element, he was lying on a scrapyard. The rust quickly covered his electrodes. Soon he was crushed with others by a ruthless scrapyard bulldozer…
+
+__END__
+

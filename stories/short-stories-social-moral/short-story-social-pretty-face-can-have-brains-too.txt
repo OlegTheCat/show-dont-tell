@@ -1,0 +1,82 @@
+Short Story Social – Pretty face can have brains too
+
+Photo credit: 
+
+ from 
+
+(Note: Image does not illustrate or has any resemblance with characters depicted in the story)
+
+It was her first day at office and Tanuja was already feeling weird. She was introduced to all her team members and obviously she hardly remembered any names. All she noticed was that it was a very young team and comprised of mostly males in their late 20s. She was the only fresher and the youngest member of the team. Her team lead was an exciting fellow, charming and very helping. So was rest of the members of the team.
+
+There were just 2 more ladies in the team – mid thirties, married with kids. She was quite excited to work for this company as a part of this team. She had always been a brilliant student, mostly among the toppers. Now she was in a huge product based MNC working as Software Engineer. It looked like a very fun loving and yet hard working set of people.
+
+Tanuja received her first project which was to work on some shell scripts. She had never done scripting ever in her life. She had no idea where to start from even after a quick ramp up from her lead. She asked for help from Rishi who sat in the next cubicle and he helped her very enthusiastically. There was a point of time where she felt that she was getting much more help than she asked for. She hesitatingly told Rishi that she could take it from her and would ask him if she needs more help. She finished the project on time and received quite an appreciation with an award.
+
+Tanuja was very open and good in talking to people. She had the right modulation in her voice and she indeed was very charming. She had a lot of friends and in no time she made a lot of friends at workplace too. Some of them were from the team, others from the gym and few others from her dance team. Yes, she was also a dancer and had joined the dance team too.
+
+Tanuja always attracted the attention of boys. She knew she is very pretty, much above average. But she was very surprised the way boys were approaching her since she had joined this company. This place was definitely very short of girls, let alone pretty ones.
+
+“How can a man who is married and has a kid come and flirt with me?” It was unbelievable for Tanuja. In her world, men who were married were supposed to be decent. This was the first myth broken. She understood men are always men, no matter at what stage of their lives.
+
+One of the guys in her team just 4 years senior to her – Rajiv invited her for coffee. After a few coffee breaks with him, he told her that he liked her. Tanuja wasn’t interested in a relationship, she simply wanted to have lots of friends and have fun in life. She was just out of a college time relationship and she wasn’t ready for the next one. She told exactly this to Rajiv.
+
+After that day, Rajiv became quite rude to her. He would ignore her for no reason, wouldn’t even look at her or talk to her. It was very clear to her that it was a visible sign of so-called male ego. “What an immature behavior” Tanuja thought.
+
+Tanuja was working on yet another project, which was a getting a bit difficult for her to handle. She was a bit shy to ask for help and she definitely did not want to approach anyone till there was no way to do it herself. She looked for all solutions and finally started coding. After a week’s effort of coding almost 9 hours a day, she was ready to get her code and design to be reviewed. Unfortunately, her code had to be reviewed by her team lead and Rajiv. Couple of days later, Rajiv came to her desk with a very serious face.
+
+“Tanuja, what did you thinking while creating a design of this kind?” asked Rajiv in a disappointed tone.
+
+“What happened, Rajiv? What is wrong with it?” replied Tanuja surprised.
+
+“Didn’t you see other modules before designing this one? This is just not the way we work. You could have asked for help.
+
+“I am sorry, Rajiv. Just let me know what needs a change, I’ll do it exactly the way you want.” Said Tanuja.
+
+“Ok, come and meet me post-lunch. We will discuss this in detail.” Said Rajiv without looking at her in the eye.
+
+During lunch time, Tanuja went to the ladies room in the cafeteria when she heard Rajiv’s voice outside at the washing area. He was talking to somebody else.
+
+“You know that new chick named Tanuja, she is such a pathetic programmer. I have no idea where do they hire these pretty looking girls who have no brains at all. I am afraid we will have to handle her work load also. The other day only Rishi was telling me that she made Rishi waste almost half a day on those silly shell scripts. Such girls are only good as girlfriends and not as colleagues. Probably such girls should be hired only as a show piece in the team for our entertainment and nothing else.” Said Rajiv and then there was a roar of laughter.
+
+Tanuja got her first ever blow on face.
+
+Tanuja was extremely disturbed by what she heard in cafeteria. She just didn’t know how would she take all this in a positive way. A show-piece for their entertainment – what the hell did he mean by that. I have to report this to somebody. She went and spoke to her team lead. Unaware of how to start the topic, she went and casually asked him, “Ravi, how did I do in my technical interviews? I must have got the question about ‘virtual destructors’ wrong.”
+
+She had become quite comfortable with Ravi. He seemed to give her a good feedback and helped her understand things.
+
+“Don’t tell me you didn’t even go and find out about the questions after the interview.” Ravi mocked. “You got most of them wrong, but then pretty girl like you doesn’t have to answer the questions. You just have to smile at the interview panel.” Said Ravi laughingly.
+
+Tanuja just stared at him for a while. She didn’t even believe this. How could I get most of the interview wrong and still get selected.
+
+Looking at her face, Ravi immediately said, “Hey, don’t feel bad. I was just kidding. I don’t mean it like that. I mean you did well but not exceptionally well. You definitely got the whole ‘doubly linked list’ problem correct. And you know most of OS answers from you were bang on.”
+
+Tanuja just smiled and she walked away. Unable to walk properly, she just went into the ladies room. She felt numb. She was hired for looking pretty. What is this? Some sort of joke that people were playing on her. Feeling utterly alone and dejected, she lost all her confidence. She cried her heart out as much as she could.
+
+While she was crying sitting on the commode, she heard somebody talk outside. “Yes, I know. She looks like a flirt too. Didn’t you see how she was enjoying all the importance from Rishi, Abhay and other guys at the last month’s dance party? A pretty girl like her would do things like that, what else do girls of this age do?” said one of her team-mates.
+
+“I think a lot of guys like Tanuja. She is beautiful, single and looks like more than available. Why won’t guys pursue her?” said the other female.
+
+This was just the right amount of blow that Tanuja was least expecting. Even the ladies in her team were unsupportive. What was she to do now? Her first instinct was to just quit this job and look for another one, but then who can guarantee that something like this will not happen in her next job.
+
+She cried, she thought, she worried about all this a lot. Finally, she decided to take it as a challenge. She was now determined to prove to every single person in her team that a fashionable girl like her with a pretty face can have brains too. She can handle her looks and her work in a way much better than anybody else. And now was the time to get back.
+
+The very next day, she approached her manager to tell him that she wanted to work on a Java project. She knew it better than anything else and she would be able to perform much better in that. He asked her to give him some time so that he could find out where she could fit in.
+
+She was now moved to work on Java. Right from the day one, she hit on all the architecture documents and every possible piece of code to understand exactly how these entire software modules were weaved into each other. She spent her nights and weekends working madly. There was nothing else in her mind than to prove that she was capable of doing this job. It was important for her to regain her confidence back. She could not let this go. She could not let people relate to just her pretty face and not her brains.
+
+6 months later, she was sent on an onsite project to work with the client because she became the sole point of contact for the clients. Since she was very capable of talking to people freely, she was the best person to communicate any issues on the calls. She knew the code in and out; she knew the product very well. She knew exactly what is needed to make this software work. Nobody could fix the bugs as fast as she could.
+
+13 years later, she was one of the managers in another MNC. She grew and grew because not only did she use her brains but also her beauty to influence people. As a manager of a 27 member team, when one day she gave the offer letter to a girl named Akriti just out of college – pretty and innocent face, she knew exactly what this girl will have to go through.
+
+And then much worse happened to Akriti, Tanuja heard rumors in the team that Akrtit was openly flirting with her team lead to get her way in the team. This was unacceptable to Tanuja and when she called Akriti in talk to her, it just took 15 mins for Akriti to start sobbing like a little child frustrated and convinced that her only talent is to look pretty.
+
+Tanuja knew this was happening all over the company. When young guys are asked to take interviews and take a decision on whom to hire, they tend to prefer pretty girls that they would like to spend time with. It becomes a biased opinion. If the girl is really talented, she has to struggle to prove herself like Tanuja did or if the girl’s talent is not in technology, she simply loses all her confidence trying to cope up with the tough world of technology and finally loses out to frustration and dejection.
+
+This could not work for the company and definitely not for those girls. Tanuja being at a senior position now, decided to take this up, the first thing she did was to arrange for these corporate talks with the teams where she would bring up this topic very openly.
+
+The corporate talk that she held on “Hiring the right people”, she very clearly saw amusement in people’s faces when she mentioned pretty girls. No, it wasn’t funny. You have to hire people based on their capability and not their faces or bodies. Secondly, whoever is hired needs to be treated equally – not as a show-piece or an entertainment package.
+
+This needed to be the guideline of every company and strictly followed, though deep down inside she knew it wasn’t possible.
+
+__END__
+

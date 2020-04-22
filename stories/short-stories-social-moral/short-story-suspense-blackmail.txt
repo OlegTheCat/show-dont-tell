@@ -1,0 +1,50 @@
+[The Blackmail – Short Story Suspense]
+
+ It’s not always that one begins a day with a blackmail letter. Of course it’s a change from the mundane day to day activities in a twisted world which gives a certain adrenaline rush as the brain phantoms the various possibilities that such an occurrence could lead to.
+
+So with a quivering heart and fingers that trembled I opened up the malicious email. Usually, emails from senders that I don’t know can be found in my spam or trash folder, depending upon the generosity of my mood. The sender’s name was the over abused and slightly tacky “Big Brother”. The message –“This is a BLACKMAIL”. Clearly it was not someone with an imaginative or creative inclination or if I was to look at it in a different light – a more threaten light – the blackmailer was one who didn’t mince words. That could be dangerous.
+
+Big Brother living up to his name had caught us red handed in the midst of our minting money by leeching the unsuspecting customers of our company.   We had zealously guarded this secret, a strong allegiance that bonded the team members comprising of Avik (the main developer), Prachi (the key tester), Vinod (the manager of the product module we had inserted the spyware) and myself (the mastermind of this whole game and a system administrator within the company). We were a motley crew, each member had been carefully chosen over the months, the common induction point being a common thread of mutual hatred for the company and a love for money. Quick money.
+
+But now there was a road block that no one had anticipated. Rather no one had dared to voice it publicly for fear of jinxing the whole endeavor. And for the last six months things had gone smoothly and the zeroes in the bank account was steadily increasing.
+
+***
+
+It was time for a quick meeting at our usual place – the smoking zone.Ten minutes later, everyone assembled at the meeting place – Avik, Vinod, Prachi and me. Each having a somber look as I quickly narrated the incident.. Vinod came up with a solution of how we could counter the situation before things went out of hand. We needed to trace the person and get to him before he got to us and ruined everything. The easiest way  would be to trace the IP of the sender through the email sent and then locate the area. Once we had that the identity of the blackmailer could be easily deciphered and measures taken. We reached a consensus on this and dispersed to our respective floors. Avik followed me to my cubicle, where  in a matter of minutes we found out the IP address of the email and ran a trace on it using one of the free IP lookup available on the internet. Our suspicion was confirmed, it was an IP from  the company itself.
+
+I rang up the network administrator and gave him the IP asking him to provide details on the pretext of some malicious program running on that laptop that needed to be looked into. He ran a quick scan on the network and gave the cubicle number – D4 -101 from which the laptop had been connected. We had everything we wanted, and all that was required was to now find out the identity of the blackmailer.
+
+I walked up the stairs to the fourth floor, trying to calm myself and appear nonchalant. Avik followed at some distance away. With tremendous effort I was able to put a stoic expression on my face as I walked slowly across the bay, crossing cubicle after cubicle till I was in close proximity to D4-101. Bent over the laptop sat Aron, his balding patch reflecting the light from above and his nervous fingers clicking away on the keyboard. I knew him only too well, having in the past had altercations with him over  inane matters. He being a senior  administrator took upon himself the job of humiliating me whenever possible. This attitude  resulted in  my promotions coming to a grinding halt and my disgruntlement getting accelerating .
+
+I sent a text to all the members revealing the identity of the perpetrator. Now what was left was to confront him and end this matter at the earliest.
+
+***
+
+Around eight in the evening I walked through the gates of Aurora Towers, where Aron’s  lived. The night guard stopped me and I made a fake entry into the register, making small talk with the security guards. Ten minutes later Avik and Vinod did the same. Prachi stayed away from this, citing health reasons.
+
+Together we reached Aron’s apartment, and I rang the bell while Avik covered the peep-hole with his hands. Vinod had the pliers ready in his hand to cut the door chain if there was any.  Aron opened the door without suspecting any foul play. He had a surprised look when he saw  us standing there and within seconds the expression changed from surprise to shock and I could see  confusion creeping into his eyes. .Without any delay Avik pushed Aron into the room and we all walked inside the house, closing the door behind us.
+
+Thirty minutes later we emerged from the apartment and left the same way we had come. Each avoiding the other’s eyes and glad of the silence that descended like a fog so that we could be engulfed by it.
+
+I didn’t sleep well that night, had dreams in which Aron’s  face kept coming up, begging for  release. It was replaced by Avik’s hardened face as he tied the rope around Aron’s neck. The images kept flitting back and forth creating havoc. Compelled I took a sleeping pill and woke only when the sun was halfway up in the sky.
+
+I excused myself from work that day, feeling weak – both physically and mentally.
+
+***
+
+The incident took a toll on everyone.  Prachi and Vinod quit and left  the organization within a month of that night. Avik remained to do the cleanup act. He removed the spyware from the product bundled within the new software patch. Things continued normally for him, but soon his behavior bordered on the eccentric. It started slowly, wherein  he sat talking to himself and shaking all the while. Later he would be seen screaming or laughing loudly for no reason. He started making his colleagues nervous and the HR had to ask him to leave. That day he created quite a scene  in the HR office, throwing things, screaming and shouting and had to be forcibly evacuated out of the building by security guards.  A week later he was taken away to an asylum.
+
+I closed the bank account where our ill earned money lay, taking all of it, packed my bags, and left the city.
+
+***
+
+It’s been one year now since that episode. I have maintained a low profile settling for the mundane life of a small town dweller, teaching computers in a primary school. Its winter and the diffused sunlight enters through the broken window pane showing the layer of dust on the computer screen where an email that I have been writing lies open.
+
+***
+
+I looked at the air ticket that had arrived a few days back along with my new passport – a new identity. And I smiled. It was  a simple plan. To create the spyware and convince Avik to build it, Prachi was the lead tester so we needed her support. Once the money had reached significant amount, both Prachi and Avik had started getting edgy asking for their share. Vinod and I agreed that it was time to get them eliminated without risking the whole game. And that was when the idea of a fictious blackmail had been born. We needed a blackmailer and who better that Aron – the one person who had plunged my career into an abyss and I had sworn myself that I would be avenged. I could kill two birds with one stone, literally.
+
+Vinod played his part well and pretended to be the network administrator when I faked the call in front of Avik. Today Vinod was looking forward to be reunited with Big Brother, but alas that wouldn’t happen. The room that had been booked under Vinod’s name in Apsara would also become his coffin. A case of accidental death in which the victim slips in the bathroom and hits his head on the edge of the bathtub causing serious injury and bleeding him to death. Of course I would be using a baseball bat just to be sure. I smiled once again and hit the send button on the email.
+
+__END__
+

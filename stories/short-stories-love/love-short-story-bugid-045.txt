@@ -1,0 +1,22 @@
+[Love Short Story : BugID-045]
+
+Love Short Story : BugID-045
+
+The title of the story may seem awkward but it make more sense to me. For the past one year most of the or all of the twists, drama, fun, excitement of  first kiss  all happened because of this, I mean the bug. I joined as  a lateral in the IT organization and was in charge of development of  a significant module. Late night cab drivers became my friends and my alarm clock always rang late in the mornings.
+
+The first release of our application to the quality team happened on the third week of January. A handful of bugs were there and bug fixing and coding in parallel made life difficult. She  a fellow tester and a lateral joiner was also part of the quality team. Her aggressive testing resulted in the assign of a bug to me with ID -045. I tested and retested it on my machine but could find any valid reasons to raise that bug. Our ODC also witnessed  heated argument between us. The bug was related to a search in the application. She insisted for a like search but as the requirement didn’t specify anything we developed the application with an exact search.
+
+For testing in the QA server I purposefully uploaded a poem of Pablo Neruda .
+
+“Spring” was one search term she generally used and here starts the twists and I know she a good reader.She searched for Spring and ended up in the result “I want to do with you what spring does with cherry trees”  from Neruda’s poem Every Day You Play . So she wants to know where the text came from ,  I told its from  Neruda’s poem.Next question was “Do u have this book with you ?” I lied with I think , my friend last week bought it. She wanted  to read that book and I assured that I will get it for her.
+
+The next day BugID – 046 was in ‘Tested’ status. I became a ‘Gold Club’ member of flipkart.com  an India ecommerce site for spending rupees seven thousand that year.Many bugs also came from further releases but , they were not as interesting as 046. One morning I got one alert from bug tracker saying 046 had been reopened. I rushed to her to know why she re-opened, the production release is about to roll out.
+
+“You didn’t call me yesterday night.”
+
+“***it!!!” why  girls are behaving like this me and my team were tough grinding all night yesterday. A lot were pumped to close that bug with comment “Unable to reproduce the issue.”
+
+When the project got sunset , our relationship also became fragile. Later it dissolved itself with unknown reasons.
+
+__END__
+

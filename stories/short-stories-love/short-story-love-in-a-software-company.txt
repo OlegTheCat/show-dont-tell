@@ -1,0 +1,30 @@
+Funny Love Short Story – Love in a software company!!!!!
+
+Photo credit: 
+
+ from 
+
+Woke up with a proud feeling of giving rest to my alarm which was set at 10:00. Wondering why was the alarm set to 10 AM? If someone has set their alarm so late, trust me he should be either an IT employee or a manager of an IT employee who is also an IT employee.
+
+Getting up early made it possible for me to reach office by 9 AM, which is around 2 hours early than routine. I was only the second one to reach the office; the first one to reach is Netra from .Net, a junior of mine working in a different team. Netra is a beautiful girl from Assam and with her lovely smile she is the second most beautiful woman only after my mother in my life. Just to mention, she is my crush and I always tried to speak with her but failed miserably. Coming back to work, I started scratching my head to find out where I stopped coding last night. I have this bad habit of not following coding standards; you will find almost all well-known names as variables in my code right from Modi, Sachin, polo etc. Please do not bang your head to find out who polo is, it is my dog’s name.
+
+While my code was going through infinite loop, my eyes swirled around Netra and all of a sudden she came up to me and asked if I could help her in .Net. The best excuse I had was “Sorry, I am little busy now but I will be able to help you in three days”, for which she agreed with a smile.
+
+Truth being, I knew nothing about .Net except the fact that there is a book on it called .Net 4.6 Framework which I got to know by seeing it in Netra’s hands. Not to waste this opportunity to impress her, picked up two books from library, one .Net 4.6 Framework and the other being 2 States (To show it to my parents just in case if everything goes good with Netra, Eventually a Hyderabad boy getting married to a Assamese girl is not that easy). For next three days of my life it was .net everywhere.
+
+Finally the big day arrived and I found Netra already in her seat. I went up to her and before I could speak, she said ‘Thanks Bhaiya! My doubts in .Net got cleared’.
+
+Bhaiya sounded very heavy to me and I had heartbreak. Just out of my curiosity, I asked her who helped her. She replied ‘It is Kaushik, works in different company’.
+
+My curiosity levels increased further on how she met him and I asked her the same. She told me ‘Bhaiya! When I was speaking on phone with my parents in my native language, he was passing by me and introduced him in Assamese’.
+
+One more news which almost gave me nervous breakdown was when she told me they are in relationship and it all happened in over a couple of days. I wanted to know much about her relationship, but not at the cost of being called Bhaiya every time. At the end of day, I realized I learned .Net in 3 days and I got a new name ‘Netra’ to use as variables in my java code.
+
+Few Java developers do not have holiday and I am one of them. Then I saw Tesla from Testing and my heart went after her. This time, I went to library to pick up a book not on testing but on ‘How to learn Gujarati in 30 days’.
+
+Moral of the story: Local language is more powerful than computer language.
+
+Advice: Do not wake up until your alarm wakes you up.
+
+–END–
+
